@@ -19,5 +19,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiandev&layout=compact)
 
-Graduando Análise e desenvolvimento de Sistema na Universidade Estácio.
+Graduando Análise e Desenvolvimento de Sistema na Universidade Estácio. <br />
 Entrei com gosto na programação por volta de outubro de 2022. Gosto bastante de tecnologia e gosto bastante de estudar e aprender coisas novas.
