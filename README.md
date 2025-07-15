@@ -21,4 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiandev&layout=compact)
 
-In 2013, my interest in programming began during an ICT course, but at that time I didn't pursue the idea of ​​the future. However, in 2022, after completing my degree in Accounting and realizing that this was not my true calling, I decided to follow my passion for programming. In October 2022, I took the first step on my journey by enrolling in the Systems Analysis and Development course at Estácio. Since then, I have dedicated myself with determination to fulfill my dream of working in software development.
+In 2013, my interest in programming began during an ICT course, but at the time, I didn’t see it as a long-term path. However, in 2022, after completing my degree in Accounting and realizing that it wasn’t my true calling, I decided to follow my passion for programming. In October 2022, I took the first step on this new journey by enrolling in the Systems Analysis and Development program at Estácio.
+<br/>
+In June 2024, I achieved a major milestone by successfully transitioning my career—from working as a financial reporting analyst to becoming a junior front-end developer. Since then, I’ve been growing steadily in the field—constantly seeking knowledge, exploring new technologies, and striving to become a better developer every day.
