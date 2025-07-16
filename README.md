@@ -23,4 +23,5 @@
 
 In 2013, my interest in programming began during an ICT course, but at the time, I didn’t see it as a long-term path. However, in 2022, after completing my degree in Accounting and realizing that it wasn’t my true calling, I decided to follow my passion for programming. In October 2022, I took the first step on this new journey by enrolling in the Systems Analysis and Development program at Estácio.
 <br/>
+<br/>
 In June 2024, I achieved a major milestone by successfully transitioning my career—from working as a financial reporting analyst to becoming a junior front-end developer. Since then, I’ve been growing steadily in the field—constantly seeking knowledge, exploring new technologies, and striving to become a better developer every day.
